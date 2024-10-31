@@ -1,0 +1,17 @@
+.rmrl_pre_data {
+    display: inline;
+}
+
+.rmrl_post_data {
+    display: none;
+}
+
+.rmrl_read_more {
+    cursor: pointer;
+}
+
+.rmrl_read_less {
+    cursor: pointer;
+    display: none;
+}
+
